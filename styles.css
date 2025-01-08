@@ -1,3 +1,7 @@
 /*  your css code here. If applicable */
-table{border:1px solid black;
+table,td,tr{
+		border:1px solid black;
+		width: 100px;
+		height:15px;
+		table-layout:fixed;
 	 }
